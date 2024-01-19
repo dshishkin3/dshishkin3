@@ -7,3 +7,7 @@
 - понимаю и умею работать с архитектурами фронтенда(Feature-Sliced Design)
 - есть опыт написания бэкенда на Express и Nest.
 - использую в работе такие инструменты Git, GitLab, Bitbucket
+
+
+Связаться со мной:
+https://t.me/dshishkin3
